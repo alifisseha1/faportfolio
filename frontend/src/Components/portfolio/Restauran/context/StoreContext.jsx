@@ -82,7 +82,7 @@ const StoreContextProvider = (props) => {
       }
     }
     loadDate();
-    setFoodList(food_list);
+    // setFoodList(food_list);
   }, []);
   
   const contextValue = {
