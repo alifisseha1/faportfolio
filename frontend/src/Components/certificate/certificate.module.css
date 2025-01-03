@@ -1,0 +1,18 @@
+.container{
+    height: 100vh;
+  
+   display: grid;
+   justify-content: center;
+   align-items: center;
+}
+.boxC{
+    width: 600px;
+   
+    
+
+}
+.boxC img{
+    width: 100%;
+    
+    box-shadow: 0px 0px 3px 10px rgba(255,255,255,0.4);
+}

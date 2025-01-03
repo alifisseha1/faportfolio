@@ -1,0 +1,10 @@
+.a {
+  display: grid;
+  width: 90%;
+  margin: auto;
+  background-color: white;
+}
+.toast{
+  position: absolute;
+  z-index: 1;
+}
